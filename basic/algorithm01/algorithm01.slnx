@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="app 04/app 04.vcxproj" />
+  <Project Path="app01/app01.vcxproj" />
+  <Project Path="app06/app06.vcxproj" />
+  <Project Path="app2/app2.vcxproj" />
+  <Project Path="app3/app3.vcxproj" />
+  <Project Path="pointer 01/pointer 01.vcxproj" />
+  <Project Path="pointer 02/pointer 02.vcxproj" />
+  <Project Path="pointer 04/pointer 04.vcxproj" />
+  <Project Path="pointer 05/pointer 05.vcxproj" />
+  <Project Path="pointer3/pointer3.vcxproj" />
+</Solution>
